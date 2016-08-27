@@ -1,4 +1,3 @@
-layout_spectrum: 0.07559985294938087
 typography_spectrum: 0.019162912154570222
 color:
   brandStrength: 0.29133934690617025
@@ -6,9 +5,11 @@ color:
   saturation: 0.4427289506420493
   rhythmicContrast: 0.43322217278182507
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.07559985294938087
 name: Rush Hour Traffic Jam
+title: Route Junction
