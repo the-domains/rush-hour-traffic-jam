@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.07559985294938087
 name: Rush Hour Traffic Jam
+navigation:
+  - name: Visualized Design
+    url: 'https://goo.gl/images/SCyzOt'
+    type: external
 title: Route Junction
 description: Slow down or point to bypass
